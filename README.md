@@ -15,7 +15,7 @@
 
 ## Introduction :raised_hands:
 
-Student of [@UESTC](https://github.com/uestcer). :school:
+Student of [@BIT](https://github.com/uestcer). :school:
 
 Major in Software Engineering. :man_technologist:
 
@@ -27,7 +27,7 @@ Hope to make more friends in open source projects. :eyes:
 
 I love coding. :heart:
 
-I love Front End technologys. :heart:
+I love C++\Qt technologys. :heart:
 <!--
 <p>
 
