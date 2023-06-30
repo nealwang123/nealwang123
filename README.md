@@ -15,7 +15,7 @@
 
 ## Introduction :raised_hands:
 
-Student of [@BIT](https://github.com/uestcer). :school:
+Student of [@BIT](https://www.bit.edu.cn/). :school:
 
 Major in Software Engineering. :man_technologist:
 
